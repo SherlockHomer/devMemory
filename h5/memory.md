@@ -39,7 +39,7 @@
 2. 配置Charles证书
 <img src="../images/common/charlesSSL.jpg"/>
 3. 配置手机证书    
-IOS例子：浏览器访问[https://chls.pro/ssl](https://chls.pro/ssl)，然后安装
+IOS例子：浏览器访问 https://chls.pro/ssl ，然后安装
 <img src="../images/common/charlesSSLInIOS.jpg" width="50%">
 
     *记得到IOS设置-证书的地方启用该证书*
