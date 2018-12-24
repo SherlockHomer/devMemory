@@ -64,7 +64,7 @@ IOS例子：浏览器访问 https://chls.pro/ssl ，然后安装
 
 11. mirror(镜像)
     * 生成网站镜像，按照各种请求生成基于路径的本地网站
-    * 💯可以减少手动增加响应文件，先生成镜像再改镜像作为新的map local file
+    * 💯可以减少手动增加响应文件，先生成镜像再改镜像作为新的map local file
 
 12. repeat or advanced
     * 仅在charles 上做重复和并发，被代理设备不受影响，可做负载均衡
